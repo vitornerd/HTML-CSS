@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body{background-image: linear-gradient(to left,black,blue);}
+h1{text-align: center;}
+h1#principal{color: rgb(255, 255, 255);}
+h2#secundario{color: brown;text-align: center; background-color: aliceblue;}
+p#doido{color: aliceblue;}
+.normal{color: aqua;}
+.basico{color: burlywood;}
+.avancado{color: chartreuse;}
+h2#casas{background-color: brown;}
+.morte{background-color: burlywood;}
+
